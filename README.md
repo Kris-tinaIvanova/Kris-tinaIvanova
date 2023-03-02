@@ -16,4 +16,8 @@
 ![Miro](https://img.shields.io/badge/-Miro-B44F07?style=flat&logo=Miro)
 
 
-Follow Me
+### Follow Me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-202224?style=flat&logo=Telegram)](https://t.me/Ee_kristina)
+[![Instagram](https://img.shields.io/badge/-Instagram-202224?style=flat&logo=Instagram)](https://instagram.com/ee_kristina)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-202224?style=flat&logo=vk)](https://vk.com/ee_kristina)
